@@ -30,9 +30,14 @@ h2 {
     padding-bottom: -5px;
 }
 
-img.resize{
+img.resize {
   max-width:50%;
   max-height:50%;
+}
+
+img.photos {
+    max-width: auto;
+    max-height: auto;
 }
 
 .intro-header {
