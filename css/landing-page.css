@@ -36,8 +36,8 @@ img.resize {
 }
 
 img.photos {
-    max-width: auto;
-    max-height: auto;
+    max-width: 60%;
+    max-height: 60%;
 }
 
 .intro-header {
