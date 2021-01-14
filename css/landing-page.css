@@ -11,6 +11,7 @@ html {
     background-color: #191919;
     background-size: cover;
     overflow: auto;
+    scroll-behavior: smooth;
 }
 
 body,
